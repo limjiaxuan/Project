@@ -1,4 +1,4 @@
 # Project
 
 # Features
-# Shopping cart functionality
+*Shopping cart functionality
